@@ -1,1 +1,8 @@
+{
+    "voila": {
+        "template": "lab",
+        "theme": "light",
+        "enable_nbextensions": true
+    }
+}
 
